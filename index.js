@@ -7,5 +7,5 @@ function x(){
 }
 var z = x();
 console.log(z);
-
-// z();
+  
+z();
