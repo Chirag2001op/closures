@@ -9,3 +9,8 @@ var z = x();
 console.log(z);
   
 z();
+
+function addition(a, b){
+    let c = a+b;
+}
+console.log(c);
